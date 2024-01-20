@@ -18,6 +18,6 @@
 
   <div class="container" style="background-color: f1f1f1;">
     <button type="button" class="cancelbutton">Cancel</button>
-    <span class="password">Forgot <a href=">password?</a></span>
+    <span class="password">Forgot<a href="#">password?</a></span>
   </div>
 </form>
