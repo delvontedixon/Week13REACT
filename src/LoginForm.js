@@ -28,3 +28,5 @@
     </span>
   </div>
 </form>;
+
+export default LoginForm;
