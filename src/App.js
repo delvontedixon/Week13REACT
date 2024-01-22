@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import "./LoginForm.js";
+import "./Navigate.js";
 
 const LoginForm = () => {
   const [username, setUsername] = useState("");
